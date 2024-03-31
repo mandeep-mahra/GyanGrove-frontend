@@ -16,9 +16,13 @@
     justify-content: space-between;
     flex-wrap: nowrap;
     gap : 1vw;
-    overflow-x: hidden;
+    overflow-x: scroll;
     overflow-y: hidden;
     
+}
+
+.cards::-webkit-scrollbar {
+    display: none;
 }
 
 .card{
