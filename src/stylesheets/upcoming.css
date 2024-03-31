@@ -1,0 +1,61 @@
+.black{
+    color : black;
+}
+.upcoming-container{
+    margin-top: 2%;
+    width : 80%; 
+}
+.upcoming-cards{
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    gap : 2vw;
+}
+.upcoming-card{
+    min-width: 24vw;
+    padding : 2px;
+    border: 2px solid #B0BABF;
+    border-radius: 10px;
+}
+.upcoming-cardimg{
+    width: 22vw;
+}
+.upcoming-title{
+    font-size: 1.25vw;
+    font-weight: 500;
+    margin-left: 5%;
+}
+.info-bottom{
+    padding: 5.5%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8vw;
+    color: #989090;
+}
+.upcoming-pin{
+    width : 1vw;
+}
+
+.image-container {
+    position: relative; 
+}
+  
+  .image-container img {
+    width: 100%; 
+    height: auto;  
+  }
+  
+  .overlay {
+    margin:5%;
+    margin-bottom: 5.8%;
+    font-size: 0.7vw;
+    border-radius: 5px;
+    position: absolute;  
+    bottom: 0;           
+    left: 0;             
+    right: 0;           
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;        
+    padding: 10px; 
+          
+  }

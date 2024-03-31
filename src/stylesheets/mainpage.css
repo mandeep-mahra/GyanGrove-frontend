@@ -1,0 +1,28 @@
+.banner-container{
+    margin: 0;
+    height:100vh;
+    background-image: url('../resources/Banner.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading{
+    color : #ffffff;
+    font-size: 5vw;
+    font-weight: 700;
+    margin-top: 10%;
+
+}
+.white{
+    color: #ffffff;
+    font-size: 1.25vw;
+}
+.text-center{
+    text-align: center;
+}
+.shows-title{
+    color: #ffffff;
+}
