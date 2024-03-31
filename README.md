@@ -4,7 +4,7 @@
 
 This project is an implementation of an events page where users can view posted events and their information. The application is built using React.js for the frontend and CSS for styling.
 
-##Live Deployment
+## Live Deployment
 `https://gyan-grove-frontend.vercel.app/`
 
 ## Setup and Local Run Instructions
